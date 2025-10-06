@@ -3,10 +3,7 @@ info:
   title: 'API Subsecretaría de Trabajo'
   description: 'Documentación de los servicios públicos de la Subsecretaría de Trabajo - Registro de Calderistas'
   version: 1.0.0
-servers:
-  -
-    url: 'http://10.102.52.19/servicios-subsec-trabajo/api'
-    description: 'Ambiente de testing'
+
 paths:
   /registro-calderistas:
     post:
